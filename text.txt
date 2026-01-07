@@ -3,4 +3,5 @@ Farbpalette
 Rot
 Grün
 blau
+Gelb
 Sind alles tolle farben.
